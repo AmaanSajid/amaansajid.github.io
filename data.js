@@ -7,7 +7,7 @@ export const bio = [
 export const skills = [
     {
         title: "Languages",
-        skillName: "Python, SQL,  R Programming, Javascript ",
+        skillName: "Python, SQL,  R Programming, Javascript",
         color: "1",
         percentage: "100",
     },
@@ -44,7 +44,7 @@ export const skills = [
 ];
 
 export const projects = {
-    LLMProjects: [
+    webProjects: [
         
         {
             projectName: "Project-Prodigy",
@@ -72,7 +72,7 @@ export const projects = {
         },
 
     ],
-    MLProjects: [
+    softwareProjects: [
         {
             projectName: "Automated Performance Assessment of Manufactured Automobile Engines",
             image: "images/Automated_project.png",
@@ -105,7 +105,7 @@ export const projects = {
             techStack: ["Python", "Machine Learning"],
         },  
     ],
-    PythonProjects: [
+    androidProjects: [
         {
             projectName: "Event Management for Mahindra University",
             image: "images/Event_management.jpeg",
@@ -140,7 +140,7 @@ export const projects = {
         // },
 
     ],
-    CloudProjects: [
+    freelanceProjects: [
         {
             projectName: "ETL Using GCP",
             image: "images/ETL.png",
