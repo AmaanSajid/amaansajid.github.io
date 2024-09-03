@@ -15,8 +15,8 @@
 }
 
 .dark-mode {
-  background-color: "#E5D3B3";
-  color: "#664229";
+  background-color: "#E0F7FA";
+  color: "#01579B";
 }
 
 /* =======================================================
@@ -30,8 +30,8 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: #664229;
-  /* background-color: #E5D3B3; */
+  color: #01579B;
+
 }
 @media screen and (max-width: 992px) {
   body {
@@ -190,7 +190,7 @@ figure figcaption {
 
 #resume-button div{
   appearance: none;
-  background: #E5D3B3;
+  background: #e5d3b3;
   border-radius: 8px;
   padding: 1rem;
   

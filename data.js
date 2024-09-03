@@ -1,5 +1,5 @@
 export const bio = [
-    "Hello! I am Amaan Sajid Shaik, a Computer Science Graduate major.",
+    "Hello! I am Amaan Sajid Shaik, a Computer Science Graduate.",
     `My skill work is based on Python and SQL, and have honed my skills in developing AI-driven solutions, building Machine learning models, data pipelines, and conducting advanced data analysis`,
     `I'm passionate about solving complex problems in Artificial Intelligence and Data Science and am actively seeking internships and full-time opportunities in these fields. I'm eager to apply my technical expertise and innovative mindset to industry-relevant projects and contribute to transformative solutions.`,
 ];
@@ -83,7 +83,7 @@ export const projects = {
         },
         {
             projectName: "Surrogate Model for Satellite Torque Optimization",
-            image: "https://github.com/AmaanSajid/Surrogate_model_machineLearning",
+            image: "images/satelitle.png",
             summary:
                 "In this project, we developed a surrogate model to optimize the magnetic moment for satellite torque control using machine learning. The problem involved calculating the optimal magnetic moments, torque and magnetic field using Gurobi optimizer. Optimize power consumption by Machine learning.",
             preview: "https://github.com/AmaanSajid/Surrogate_model_machineLearning",
@@ -130,14 +130,6 @@ export const projects = {
             preview: "https://github.com/AmaanSajid/Rise-Fall-Prog_lang",
             techStack: ["R"],
         },
-        // {
-        //     projectName: "Web Scraping Bot",
-        //     image: "images/web-scraping-diagram.png",
-        //     summary:
-        //         "Using BeautifulSoup to build a Web Scraping Bot; Scraping stock data on a day to day basis & Sending through Mail.",
-        //     preview: "https://github.com/medprod/webscraping-bot",
-        //     techStack: ["Python", "Web Scraping"],
-        // },
 
     ],
     freelanceProjects: [
@@ -149,50 +141,32 @@ export const projects = {
             preview: "https://github.com/AmaanSajid/ETL-projects",
             techStack: ["Google Cloud Platform", "Python", "SQL",],
         },
-        // {
-        //     projectName: "Analysis: Flavors of Cacao",
-        //     image: "images/cacao.png",
-        //     summary: "A thorough analysis and visualization of a dataset that focuses on expert ratings of various types of dark chocolates.",
-        //     preview:
-        //         "https://github.com/medprod/open-data-proj2",
-        //     techStack: ["Python", "Data Analysis", "Data Visualization"],
-        // },
-        // {
-        //     projectName: "Analysis: City of Chicago Salaries",
-        //     image: "images/chicago.png",
-        //     summary: "A thorough analysis and visualization of the employees, positions, and salaries in Chicago.",
-        //     preview:
-        //         "https://github.com/medprod/open-data-proj1",
-        //     techStack: ["Python", "Data Analysis", "Data Visualization"],
-        // },
     ],
 };
 
 export const experience = [
     {
-        title: "Dr Reddys Labortories",
+        title: "Dr. Reddy's Laboratories",
         duration: "May 2024 - Aug 2024",
-        subtitle: "Artifical Intellengence Intern",
+        subtitle: "Artificial Intelligence Intern",
         details: [
-            `Created various RAG architectures and LLM pipelines for various project. Finalized Tech Stack. Lead Project Vision and AMPLE projects at initial Stages.`,
-            `Played a key role in the Project Vision, AMPLE and S2L In-house project, In which S2L had started production and usage by Cooperate employees`,
-            `Experienced in GCP, Azure AI API calls, LangChain and Hugging Face to produce End-End products.`,
-            `Demonstrated proficiency in Agile principles, collaborating with cross-functional teams using Scrum frameworks to
-            deliver high-quality results.`
+            `Developed various Retrieval-Augmented Generation (RAG) architectures and Large Language Model (LLM) pipelines for multiple projects. Finalized the technology stack and led the early stages of Project Vision and AMPLE.`,
+            `Played a pivotal role in the Project Vision, AMPLE, and S2L in-house projects, with S2L advancing to production and being actively used by corporate employees.`,
+            `Gained hands-on experience with Google Cloud Platform (GCP), Azure AI APIs, LangChain, and Hugging Face to deliver end-to-end AI products.`
         ],
-        tags: ["GCP", "OpenAI", "Streamlit", "LangChain", "HuggingFace",,"OpenCV","SQL"],
+        tags: ["GCP", "OpenAI", "Streamlit", "LangChain", "Hugging Face", "OpenCV", "SQL"],
         icon: "briefcase",
     },
-    
 ];
+
 
 export const education = [
     {
-        title: "Masters in Computer Science",
+        title: "Master's in Computer Science",
         duration: "Aug 2024 - 2026",
         subtitle: "University of Florida, Florida, USA",
         details: [],
-        tags: ["Advanced Data Structures","Analysis of Alogorithm","Software Engineering","Research Methods for HCC","Data Science","Computer Network Security"],
+        tags: ["Advanced Data Structures", "Analysis of Algorithms", "Software Engineering", "Research Methods for HCC", "Data Science", "Computer Network Security"],
         icon: "graduation-cap",
     },
     {
@@ -218,15 +192,15 @@ export const education = [
             "Machine Learning",
             "Database Management Systems",
             "Natural Language Processing",
-            "Database Management Systems",
             "Software Engineering",
             "OOPS with Java",
-            "Deep Learning", "Operating Systems"
+            "Deep Learning",
+            "Operating Systems"
         ],
         icon: "graduation-cap",
     },
-
 ];
+
 
 export const footer = [
     {
@@ -253,7 +227,7 @@ export const footer = [
     {
         label: "copyright-text",
         data: [
-            "&copy; 2024 All rights reserved by Amaan, Maneesh, Medha",
+            "&copy; 2024 All rights reserved by Amaan Sajid Shaik",
         ],
     },
 ];
