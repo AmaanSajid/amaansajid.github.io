@@ -116,7 +116,7 @@ export const projects = {
         },
         {
             projectName: "Zomato Analysis",
-            image: "images/opti.png",
+            image: "images/Zomato_logo.png",
             summary:
                 "Developed a Zomato Analysis for better Analysis of the zomato restaurants.",
             preview: "https://github.com/AmaanSajid/Zomato-Analysis",
