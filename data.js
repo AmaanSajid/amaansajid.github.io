@@ -47,7 +47,7 @@ export const projects = {
     webProjects: [
         {
             projectName: "AI Financial Assistant",
-            image: "images/Screenshot 2025-04-12 at 8.29.20 PM.png",
+            image: "images/finance.png",
             summary:
                 "The AI Financial Assistant is an innovative, AI-powered Agents using Tools designed to empower users with smart financial insights and personalized recommendations. By leveraging advanced machine learning techniques and natural language processing, this assistant can analyze financial data in real time and help users with budgeting, investment decision-making, and overall financial planning.",
             preview: "https://github.com/AmaanSajid/AI-Financial-Assistant",
@@ -55,7 +55,7 @@ export const projects = {
         },
         {
             projectName: "Vs Code AI Extension",
-            image: "images/Screenshot 2025-04-12 at 8.34.42 PM.png",
+            image: "images/extension.png",
             summary:
                 "The VS Code AI Extension is an innovative, open-source tool designed to integrate intelligent, real-time code assistance directly into Visual Studio Code. Leveraging the power of natural language processing and machine learning, this extension acts as a personal coding assistant. It analyzes your code contextually and provides smart code completions, inline suggestions, and actionable insights—all within the familiar VS Code environment. Built using a combination of JavaScript, TypeScript, and Python, the extension has been engineered for seamless integration and robust performance",
             preview: "https://github.com/AmaanSajid/Vs-code-extension",
@@ -97,7 +97,7 @@ export const projects = {
             techStack: ["API's", "SQL", "Python", "Streamlit", "Machine Learning"],
         },
         {
-            projectName: "Automated Performance Assessment of Manufactured Automobile Engines",
+            projectName: "Performance Assessment of Manufactured Automobiles",
             image: "images/Automated_project.png",
             summary:
                 "Collarabated with Mahindra and Mahindra to create a Machine learning model to reduce there load and testing cost for G20 Engine. Achieved 98 percent accuracy by Data cleaning/visualzation and feature selections methods such as pearson,Select K best,Recursive Feature elimination.",
